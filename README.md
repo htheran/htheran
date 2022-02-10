@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htheran
-- 👀 I’m interested in ... js, python, php, laravel
-- 🌱 I’m currently learning ... js
+- 👀 I’m interested in ... js, python, php, laravel, symfony
+- 🌱 I’m currently learning ... js, symfony
 - 💞️ I’m looking to collaborate on ... backend
 - 📫 How to reach me ... @hernanteheran
 
